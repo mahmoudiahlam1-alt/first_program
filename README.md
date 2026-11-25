@@ -1,4 +1,4 @@
-# first_program#include<stdio.h>
+# first_program #include<stdio.h>
 int main(){
     char name[30]; 
 int  age;
